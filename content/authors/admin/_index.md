@@ -84,7 +84,7 @@ highlight_name: true
 
 # Welcome
 
-I am a PhD student at the University of Virginia (UVA). My research interests lie in **AI healthcare**, **generative modeling**, and **medical image analysis**. Previously, I completed my M.Sc. and B.Sc. in Robotics and Mechatronics Engineering from the University of Dhaka, where I worked on graph machine learning and computer vision under the supervision of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). I also love 3D modelling and 3D printing. I occasionally write about things I'm interested in and post them on this site.
+I am a PhD student at the University of Virginia (UVA), supervised by Dr. Miaomiao Zhang. My research interests lie in **AI healthcare**, **generative modeling**, and **medical image analysis**. Previously, I completed my M.Sc. and B.Sc. in Robotics and Mechatronics Engineering from the University of Dhaka, where I worked on graph machine learning and computer vision under the supervision of Dr. Sejuti Rahman. I also love 3D modelling and 3D printing. I occasionally write about things I'm interested in and post them on this site.
 
 <!-- **Research Interest**
 I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infatuated a fascination towards Geometric Deep Learning within me.  I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
