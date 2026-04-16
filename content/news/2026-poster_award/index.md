@@ -6,9 +6,9 @@ image:
   caption: UVA SEAS logo
   focal_point: Smart
 slides: example
-summary: Won the <span style="color:red"> **Poster Award**</span> at UVA SEAS AI/ML Resource Fair!
+summary: Won the <span style="color:red"> **Best Poster Award**</span> at UVA SEAS AI/ML Resource Fair!
 tags:
 - Personal
-title: Poster Award Winners at UVA SEAS AI/ML Resource Fair
+title: Best Poster Award Winner at UVA SEAS AI/ML Resource Fair
 ---
-Excited to share that I won the **Poster Award** at the **UVA SEAS AI/ML Resource Fair**!
+Excited to share that I won the **Best Poster Award** at the **UVA SEAS AI/ML Resource Fair**!

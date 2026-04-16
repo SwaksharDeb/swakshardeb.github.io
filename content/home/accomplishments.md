@@ -28,10 +28,10 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2026-04-01'
-    description: 'Poster Award Winners at UVA SEAS AI/ML Resource Fair'
+    description: 'Best Poster Award Winner at UVA SEAS AI/ML Resource Fair'
     organization: UVA School of Engineering and Applied Science
     organization_url: https://engineering.virginia.edu/
-    title: Poster Award Winners at UVA SEAS AI/ML Resource Fair
+    title: Best Poster Award Winner at UVA SEAS AI/ML Resource Fair
     url: ''
 
 design:
