@@ -15,28 +15,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: Masters Student
+role: PhD Student
 
-# # Organizations/Affiliations to show in About widget
-# organizations:
-#   - name: Department of Robotics and Mechatronics Engineering
-#     url: https://rme.du.ac.bd/
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: University of Virginia
+    url: https://www.virginia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a M.Sc student in Robotics and Mechatronics Engineering.
+bio: I am a PhD student at the University of Virginia.
 
 # Interests to show in About widget
 interests:
-  - Graph Signal Processing
-  - Graph Neural Networks
-  - Computer Vison
+  - AI Healthcare
+  - Generative Modeling
+  - Medical Image Analysis
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD
+      institution: University of Virginia, USA
+      year: present
     - course: M.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2022-present
+      year: 2023
     - course: B.Sc in Robotics and Mechatronics Engineering
       institution: University of Dhaka, Bangladesh
       year: 2022
@@ -81,9 +84,7 @@ highlight_name: true
 
 # Welcome
 
-I recently completed my M.Sc. degree from the Department of Robotics and Mechatronics Engineering, University of Dhaka, under the supervison of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). My research is primarily focused on **graph machine learning** and **computer vision**. Specifically, I'm interested in the intersection of graph signal processing and machine learning, and its transformative application in the realm of **biomedical image processing**. 
-
-My long term goal is to integrate **symmetry** and **topological deep learning** in robot vison, to enable robot to understand the world better as we humans do. I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
+I am a PhD student at the University of Virginia (UVA). My research interests lie in **AI healthcare**, **generative modeling**, and **medical image analysis**. Previously, I completed my M.Sc. and B.Sc. in Robotics and Mechatronics Engineering from the University of Dhaka, where I worked on graph machine learning and computer vision under the supervision of [Dr. Sejuti Rahman](https://www.du.ac.bd/faculty/faculty_details/RME/2150). I also love 3D modelling and 3D printing. I occasionally write about things I'm interested in and post them on this site.
 
 <!-- **Research Interest**
 I'm currently reading [Coordinate Independent Convolutional Networks](https://arxiv.org/pdf/2106.06020.pdf), which infatuated a fascination towards Geometric Deep Learning within me.  I also love 3D modelling and 3D printing. I ocassionaly write about things I'm interested in and post them on this site.
