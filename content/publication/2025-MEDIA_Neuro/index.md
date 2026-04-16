@@ -1,7 +1,7 @@
 ---
 title: "Generative Modeling of Neurodegenerative Brain Anatomy with 4D Longitudinal Diffusion Model"
-date: 2025-06-01
-publishDate: 2025-06-01
+date: 2025-05-01
+publishDate: 2025-05-01
 authors: ["Nivetha Jayakumar*", "Swakshar Deb*", "Bahram Jafrasteh", "Qingyu Zhao", "Miaomiao Zhang"]
 publication_types: ["2"]
 abstract: ""

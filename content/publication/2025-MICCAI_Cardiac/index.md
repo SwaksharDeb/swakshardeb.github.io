@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Cardiac Video Translation Via Motion Feature Guided Diffusion Model"
-date: 2025-06-01
-publishDate: 2025-06-01
+date: 2025-07-01
+publishDate: 2025-07-01
 authors: ["Swakshar Deb", "Nian Wu", "Frederick H. Epstein", "Miaomiao Zhang"]
 publication_types: ["1"]
 abstract: ""
